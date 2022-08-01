@@ -5,7 +5,7 @@
   "license": "MIT",
   "main": "dist",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.2.10"
   },
   "scripts": {
     "build": "../../scripts/build.sh && cp src/testAccounts.json dist",
